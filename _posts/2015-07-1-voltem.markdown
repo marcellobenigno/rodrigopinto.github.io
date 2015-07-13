@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: voltem
+date: 2015-06-01
+img: voltem.png
+alt: Voltem
+project-date: June 2015
+client: Voltem/Hotel Urbano
+category: Web Development
+description: Voltem is quite similar to Airbnb but focused on brazilian vacation market. It was pioneer with payment in installments. I was hired to fix technical debts like code quality, test coverage, SEO improvements and so on.
+---

@@ -1,0 +1,46 @@
+# Site settings
+title: Rodrigo Pinto
+email: contato@rodrigopinto.me
+url: https://rodrigopinto.me
+description: "I am Rodrigo Pinto a brazilian fellow, web software developer, digital entrepreneur and travel blogger. Original from Rio de Janeiro, but travelling always I can."
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/rodrigoospinto
+  - title: github
+    url: http://github.com/rodrigopinto
+  - title: instagram
+    url: http://instagram.com/rodrigoospinto
+  - title: linkedin
+    url: https://www.linkedin.com/in/rodrigoospinto
+  - title: globe
+    url: http://trupedatrip.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Rio de Janeiro or
+  - line: Anywhere in the World.
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
